@@ -55,4 +55,7 @@ This project demonstrates the ability to **turn raw customer data into strategic
    * Open `customer_behavior_dashboard.pbix`
    * Create or explore interactive dashboards to visualize insights
 
+5.**Report**
+
+   * Open `SmartCustomer Shopping Behavior Analysis.pdf` to check the overall workflow in the report.
 ---
